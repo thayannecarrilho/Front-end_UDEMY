@@ -1,0 +1,108 @@
+html {
+    font-family: verdana;
+    background-color: #877e7e;
+    color: #fcfcfc;
+}
+
+p {
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+}
+
+.container {
+    background-color: #000000;
+    max-width: 1200px;
+    border-radius: 15px;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.bold {
+    font-weight: bold;
+    color: #a79f9f;
+}
+
+.header {
+    text-align: center;
+}
+
+.main-title {
+    font-size: 40px;
+}
+
+.main-paragraph {
+    font-style: italic;
+    text-align: center;
+}
+
+.feature-image {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.img {
+    border: 5px solid #fff;
+    border-radius: 15px;
+}
+
+.biography-container {
+    padding: 0px 25px;
+    margin: 25px 25px;
+    border-top: 1px dashed #fff;
+}
+
+.quotes-container {
+    padding: 10px 150px 10px 25px;
+    margin: 0px 50px;
+    border-radius: 15px;
+    background-image: url(.//img/pngtree-three-dimensional-gradient-effect-gray-background-image_759633.jpg);
+    }
+
+blockquote {
+    color: #111;
+    font-weight: bold;
+    text-align: justify;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.quoted-for {
+    color: #111;
+    text-align: center;
+    font-weight: bold;
+}
+
+.curiosities-container {
+    text-align: justify;
+    padding: 0px 25px;
+    margin: 25px 25px;
+}
+
+ul {
+    line-height: 30px;
+}
+
+.img-bold {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.more-info {
+    padding: 0px 25px;
+    margin: 25px 25px;
+    border-top: 1px dashed #fff;  
+}
+
+.more {
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+    font-weight: bold;
+    color: #cce23e;
+}
