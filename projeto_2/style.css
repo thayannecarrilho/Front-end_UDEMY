@@ -125,6 +125,7 @@ ul {
 .optional-box1,
 .optional-box2 {
     margin: 10px 0 10px 100px;
+    display: inline-block;
 }
 
 .btn-submit {
@@ -133,17 +134,4 @@ ul {
     margin-bottom: 30px;
     background-color: #d0cec7;
     color: #111;
-}
-
-.optional-box2 {
-    
-    margin: 0 auto;
-    position: relative;
-    top: -110px;
-    left: 350px;
-}
-
-.box-top{
-    top: -100px;
-    position: relative;
 }
